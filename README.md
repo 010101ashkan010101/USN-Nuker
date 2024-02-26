@@ -34,7 +34,7 @@
 
 ### :gear: Installation
 
-- **1.** Download the files from <a href="https://github.com/010101ashkan010101/USN-Nuker/releases/tag/Releases"> Here</a>
+- **1.** Download the files from <a href="https://github.com/010101ashkan010101/USN-Nuker/releases/download/Releases/USN.Nuker.zip"> Here</a>
 - **2.** Extract the .zip File
 - **3.** open the Extracted file
 - **4.** Run the UPN.exe and Enjoy ✨
