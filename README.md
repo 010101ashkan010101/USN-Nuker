@@ -34,19 +34,11 @@
 
 ### :gear: Installation
 
-Open Cmd
-Type this and Press Enter for installing the files:
-```bash
-git clone https://github.com/010101ashkan010101/USN-Nuker.git
-```
-Type this and Press Enter for going to the directory:
-```bash
-cd USN-Nuker
-```
-and Finally Type this to Run the Nuker:
-```bash
-start USN.exe
-```
+- **1.** Download the files from <a href="https://github.com/010101ashkan010101/USN-Nuker/releases/tag/Releases"> Here</a>
+- **2.** Extract the .zip File
+- **3.** open the Extracted file
+- **4.** Run the UPN.exe and Enjoy ✨
+
 
 ###  🚀 FAQ
 
