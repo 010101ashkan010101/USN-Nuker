@@ -43,7 +43,7 @@
 ###  🚀 FAQ
 
 **Question :** why when i open the exe file it shows me nothing?
-- **Answer :** if it happens maybe its a bug or a problem with your network connection. we will fix it on the next update.
+- **Answer :** if it happens maybe its a bug or a problem with your network connection. we will fix it on the next update. (Fixed in V2)
 
 **Question :** why i got so many rate limits?
 - **Answer :** Use proxys.
